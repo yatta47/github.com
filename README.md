@@ -29,6 +29,11 @@ Alt + Shift + F
 
 Ctrl + Shift + [ or ]
 
+## 便利サイト
+
+- アイキャッチ作成  
+<https://pablo.buffer.com>
+
 ## ショートコード
 
 記事を書く際に役に立つショートコード
