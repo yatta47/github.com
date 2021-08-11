@@ -1,15 +1,15 @@
-baseurl: https://example.com
+baseurl: https://yatta47.github.io
 languageCode: ja-jp
 theme: hugo-theme-stack
 paginate: 5
-title: yatta47.md
+title: yatta47.localhost
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
-DefaultContentLanguage: en
+DefaultContentLanguage: ja
 
 permalinks:
     post: /p/:slug/
@@ -23,7 +23,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -31,8 +31,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: インフラしか勝たん
         avatar:
             local: true
             src: img/avatar.png
@@ -53,22 +53,22 @@ params:
             theme: preferred-color-scheme
 
     widgets:
-        enabled:
-            - search
-            - archives
-            - tag-cloud
+        enabled: false
+        #     - search
+        #     - archives
+        #     - tag-cloud
 
-        archives:
-            limit: 5
-            path: archives
+        # archives:
+        #     limit: 5
+        #     path: archives
 
-        tagCloud:
-            limit: 10
+        # tagCloud:
+        #     limit: 10
 
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: yatta47
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -117,6 +117,13 @@ menu:
           url: search
           weight: -60
           pre: search
+
+        - identifier: github
+          name: Github
+          url: https://github.com/yatta47
+          weight: -50
+          pre: github
+
 
 related:
     includeNewer: true
