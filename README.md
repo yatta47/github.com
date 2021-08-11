@@ -35,16 +35,24 @@ Ctrl + Shift + [ or ]
 
 ### YouTube Privacy Enhanced Shortcode
 
+```shortcode
 {{< youtube ZJthWmvUzzc >}}
+```
 
 ### Twitter Simple Shortcode
 
+```shortcode
 {{< twitter 1424766833802977280 >}}
+```
 
 もしくは
 
+```shortcode
 {{< twitter_simple 1424766833802977280 >}}
+```
 
 ### Vimeo Simple Shortcode
 
+```shortcode
 {{< vimeo_simple 48912912 >}}
+```
