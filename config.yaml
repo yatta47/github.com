@@ -33,7 +33,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: 内部通信情報
+        subtitle: 今日も内部通信しています。
         avatar:
             local: true
             src: img/avatar.png
