@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>yatta47.localhost</title><link>https://yatta47.github.io/</link><description>Recent content on yatta47.localhost</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yatta47.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>日本語テスト</title><link>https://yatta47.github.io/p/test-chinese/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><guid>https://yatta47.github.io/p/test-chinese/</guid><description>&lt;img src="https://yatta47.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 日本語テスト" />&lt;h2 id="タイトルだよ">タイトルだよ&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>yatta47.localhost</title><link>https://yatta47.github.io/</link><description>Recent content on yatta47.localhost</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Wed, 11 Aug 2021 14:22:31 +0000</lastBuildDate><atom:link href="https://yatta47.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>https://yatta47.github.io/p/hello/</link><pubDate>Wed, 11 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/p/hello/</guid><description>&lt;img src="https://yatta47.github.io/img/vscode.png" alt="Featured image of post Hello" />&lt;p>aaaaaaaaaaaaaaa&lt;/p>
+&lt;p>よっしゃーーーー&lt;/p>
+&lt;pre>&lt;code>sudo apt-get install chromium
+&lt;/code>&lt;/pre></description></item><item><title>日本語テスト</title><link>https://yatta47.github.io/p/test-chinese/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><guid>https://yatta47.github.io/p/test-chinese/</guid><description>&lt;img src="https://yatta47.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 日本語テスト" />&lt;h2 id="タイトルだよ">タイトルだよ&lt;/h2>
 &lt;p>テストだよー。&lt;/p>
 &lt;p>ブログを新しく新設してみました。&lt;/p>
 &lt;pre>&lt;code class="language-command" data-lang="command">#!/bin/sh
@@ -203,23 +206,8 @@ alt="Photo by Hudai Gayiran on Unsplash">
 &lt;!-- raw HTML omitted -->
 &lt;hr>
 &lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode&lt;/h2>
-&lt;style type="text/css">
-.twitter-tweet {
-font: 14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-border-left: 4px solid #2b7bb9;
-padding-left: 1.5em;
-color: #555;
-}
-.twitter-tweet a {
-color: #2b7bb9;
-text-decoration: none;
-}
-blockquote.twitter-tweet a:hover,
-blockquote.twitter-tweet a:focus {
-text-decoration: underline;
-}
-&lt;/style>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br>— Jan Tschichold &lt;a href="https://t.co/gcv7SrhvJb">pic.twitter.com/gcv7SrhvJb&lt;/a>&lt;/p>&amp;mdash; Graphic Design History (@DesignReviewed) &lt;a href="https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw">January 17, 2019&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">RedHatが提供しているKafkaのマネージド。 / “Red HatによるManaged Kafka, RHOSAKのトライアルを試してみる！ - 赤帽エンジニアブログ” (1 user) &lt;a href="https://t.co/kTGN9dDuJI">https://t.co/kTGN9dDuJI&lt;/a>&lt;/p>&amp;mdash; やった (@yatta47) &lt;a href="https://twitter.com/yatta47/status/1424766833802977280?ref_src=twsrc%5Etfw">August 9, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;!-- raw HTML omitted -->
 &lt;hr>
 &lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode&lt;/h2>
