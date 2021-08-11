@@ -33,7 +33,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: インフラしか勝たん
+        subtitle: 内部通信情報
         avatar:
             local: true
             src: img/avatar.png
@@ -125,6 +125,11 @@ menu:
           weight: -50
           pre: github
 
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/yatta47
+          weight: -40
+          pre: twitter
 
 related:
     includeNewer: true
