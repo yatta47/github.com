@@ -9,11 +9,9 @@ tags: [
     "",
 ]
 draft: false
-image: "2021-08-12-08-56-27.png"
+image: "/img/fluentd.png"
 description: "aareeeee"
 ---
-
-aaaaaaaaaaaaaaa
 
 よっしゃーーーー
 
