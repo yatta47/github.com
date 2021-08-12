@@ -54,17 +54,17 @@ params:
             theme: preferred-color-scheme
 
     widgets:
-        enabled: false
-        #     - search
-        #     - archives
-        #     - tag-cloud
+        enabled:
+            # - search
+            - archives
+            - tag-cloud
 
-        # archives:
-        #     limit: 5
-        #     path: archives
+        archives:
+            limit: 5
+            path: archives
 
-        # tagCloud:
-        #     limit: 10
+        tagCloud:
+            limit: 10
 
     opengraph:
         twitter:
