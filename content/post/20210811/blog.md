@@ -5,7 +5,7 @@ categories: ["blog"]
 tags: [""]
 author: "yatta47"
 description: "新しくブログはじめました。"
-draft: true
+draft: false
 image: "/img/blog.png"
 ---
 
