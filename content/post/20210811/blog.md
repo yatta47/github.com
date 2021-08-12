@@ -2,7 +2,7 @@
 title: "ブログはじめました"
 date: 2021-08-12T00:08:43Z
 categories: ["blog"]
-tags: [""]
+tags: ["blog"]
 author: "yatta47"
 description: "新しくブログはじめました。"
 draft: false
