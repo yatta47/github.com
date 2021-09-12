@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on yatta47.localhost</title><link>https://yatta47.github.io/post/</link><description>Recent content in Posts on yatta47.localhost</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Thu, 12 Aug 2021 00:08:43 +0000</lastBuildDate><atom:link href="https://yatta47.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ブログはじめました</title><link>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on yatta47.localhost</title><link>https://yatta47.github.io/post/</link><description>Recent content in Posts on yatta47.localhost</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Thu, 12 Aug 2021 14:22:31 +0000</lastBuildDate><atom:link href="https://yatta47.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Fluentdについて調べ始めた。</title><link>https://yatta47.github.io/p/fluentd%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E5%A7%8B%E3%82%81%E3%81%9F/</link><pubDate>Thu, 12 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/p/fluentd%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E5%A7%8B%E3%82%81%E3%81%9F/</guid><description>Fluentdについて調べる必要があったので調べています。
+参考にしているサイト KafkaブローカのWrite Ahead Log格納先はデフォルトで/tmp/kafka-logsとなる。この配下に、recovery-point-offset-checkpoint, replication-offset-checkpoint ファイルが生成される。また今回の場合はtest-0という名でディレクトリが生成され、さらにその配下にバイナリログが生成されていた。詳しい仕組みはよく分かってないが、これらのリソースがブローカの耐障害性をサポートする、はず。
+[https://atomitech.jp/study/entry-550/ 【Hinemos】アプリケーションログをfluentdで転送する｜技術研究・研究日誌｜株式会社アトミテック]
+拡張機能
+CopyTabTitleUrl - Chrome ウェブストア https://chrome.google.com/webstore/detail/copytabtitleurl/lmgbdjfoaihhgdphombpgjpaohjfeapp
+CopyTabTitleUrl - Chrome ウェブストア
+拡張機能 - CopyTabTitleUrl
+Quick Copy URL - Chrome ウェブストア
+Copy URLs - Chrome ウェブストア https://chrome.google.com/webstore/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk?hl=ja
+Copy URLs - Chrome ウェブストア https://chrome.google.com/webstore/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk?hl=ja
+コンテナ運用におけるログ基盤設計のベストプラクティス - Qiita</description></item><item><title>ブログはじめました</title><link>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。
 すでにブログははてなブログでやっているのですがそれとのすみわけをどうしようか考え中。
 ここのサイトは技術のことも書きつつ日々思ったことを素直に書くようなところにしようかと思ったり思わなかったり。
-どちらにしてもHugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。</description></item><item><title>Hello</title><link>https://yatta47.github.io/p/hello/</link><pubDate>Wed, 11 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/p/hello/</guid><description>よっしゃーーーー
-sudo apt-get install chromium</description></item></channel></rss>
+どちらにしてもHugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。</description></item></channel></rss>
