@@ -3,21 +3,7 @@
 &lt;blockquote>
 &lt;p>KafkaブローカのWrite Ahead Log格納先はデフォルトで/tmp/kafka-logsとなる。この配下に、recovery-point-offset-checkpoint, replication-offset-checkpoint ファイルが生成される。また今回の場合はtest-0という名でディレクトリが生成され、さらにその配下にバイナリログが生成されていた。詳しい仕組みはよく分かってないが、これらのリソースがブローカの耐障害性をサポートする、はず。&lt;/p>
 &lt;/blockquote>
-&lt;p>[https://atomitech.jp/study/entry-550/ 【Hinemos】アプリケーションログをfluentdで転送する｜技術研究・研究日誌｜株式会社アトミテック]&lt;/p>
-&lt;p>&lt;a class="link" href="chrome://extensions/shortcuts" >拡張機能&lt;/a>&lt;/p>
-&lt;p>CopyTabTitleUrl - Chrome ウェブストア
-&lt;a href="https://chrome.google.com/webstore/detail/copytabtitleurl/lmgbdjfoaihhgdphombpgjpaohjfeapp">https://chrome.google.com/webstore/detail/copytabtitleurl/lmgbdjfoaihhgdphombpgjpaohjfeapp&lt;/a>&lt;/p>
-&lt;p>&lt;a class="link" href="https://chrome.google.com/webstore/detail/copytabtitleurl/lmgbdjfoaihhgdphombpgjpaohjfeapp" target="_blank" rel="noopener"
->CopyTabTitleUrl - Chrome ウェブストア&lt;/a>&lt;/p>
-&lt;p>&lt;a class="link" href="chrome://extensions/?id=lmgbdjfoaihhgdphombpgjpaohjfeapp" >拡張機能 - CopyTabTitleUrl&lt;/a>&lt;/p>
-&lt;p>&lt;a class="link" href="https://chrome.google.com/webstore/detail/quick-copy-url/pejnfjhmapcmemanpjfalfkmeblolhnj" target="_blank" rel="noopener"
->Quick Copy URL - Chrome ウェブストア&lt;/a>&lt;/p>
-&lt;p>Copy URLs - Chrome ウェブストア
-&lt;a href="https://chrome.google.com/webstore/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk?hl=ja">https://chrome.google.com/webstore/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk?hl=ja&lt;/a>&lt;/p>
-&lt;p>Copy URLs - Chrome ウェブストア
-&lt;a href="https://chrome.google.com/webstore/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk?hl=ja">https://chrome.google.com/webstore/detail/copy-urls/efkmnflmpgiklkehhoeiibnmdfffmmjk?hl=ja&lt;/a>&lt;/p>
-&lt;p>&lt;a class="link" href="https://qiita.com/naomichi-y/items/6eeebd21adf8e771a8e7" target="_blank" rel="noopener"
->コンテナ運用におけるログ基盤設計のベストプラクティス - Qiita&lt;/a>&lt;/p></description></item><item><title>ブログはじめました</title><link>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>&lt;img src="https://yatta47.github.io/img/blog.png" alt="Featured image of post ブログはじめました" />&lt;p>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。&lt;/p>
+&lt;p>[https://atomitech.jp/study/entry-550/ 【Hinemos】アプリケーションログをfluentdで転送する｜技術研究・研究日誌｜株式会社アトミテック]&lt;/p></description></item><item><title>ブログはじめました</title><link>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>&lt;img src="https://yatta47.github.io/img/blog.png" alt="Featured image of post ブログはじめました" />&lt;p>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。&lt;/p>
 &lt;p>すでにブログははてなブログでやっているのですがそれとのすみわけをどうしようか考え中。&lt;/p>
 &lt;p>ここのサイトは技術のことも書きつつ日々思ったことを素直に書くようなところにしようかと思ったり思わなかったり。&lt;/p>
 &lt;p>どちらにしてもHugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。&lt;/p></description></item></channel></rss>
