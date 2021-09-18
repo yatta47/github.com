@@ -21,6 +21,8 @@ hugo new post/[dir-name]/[article-name].md
 | dir-name     | ディレクトリ名 |
 | article-name | 記事名         |
 
+アイキャッチ画像は`static/img`の下に置く。
+
 ### テーブルを整形するショートカットキー
 
 Alt + Shift + F
