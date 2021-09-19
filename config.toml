@@ -10,7 +10,7 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
-  footer = "The Marauders"
+  footer = "yatta47"
   description = "I'm a Cloud & Network Engineer."
   avatarURL = "/images/avatar.png"
   avatarSize = "size-m"
