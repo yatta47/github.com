@@ -8,9 +8,14 @@ Post This is the default blog post type which will be shown in your &amp;ldquo;P
 The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.
 These begin and end with a colon and include the code of an emoji:
-Gone camping! {?:}tent: Be back soon. That is so funny!</description></item><item><title>ブログだよ</title><link>https://yatta47.github.io/posts/20210918/blog/</link><pubDate>Sat, 18 Sep 2021 14:34:30 +0000</pubDate><guid>https://yatta47.github.io/posts/20210918/blog/</guid><description>aaaaaaaaaaaaaaaaaaaaaaaaa</description></item><item><title>Fluentdについて調べ始めた。</title><link>https://yatta47.github.io/posts/20210812/fluentd/</link><pubDate>Thu, 12 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/posts/20210812/fluentd/</guid><description>Fluentdについて調べる必要があったので調べています。
+Gone camping! {?:}tent: Be back soon. That is so funny!</description></item><item><title>テーマを変えました。</title><link>https://yatta47.github.io/posts/20210918/blog/</link><pubDate>Sat, 18 Sep 2021 14:34:30 +0000</pubDate><guid>https://yatta47.github.io/posts/20210918/blog/</guid><description>ここ2日間でずっとHugoのテーマをあさっていました。
+以前はStackというテーマを使っていました。
+CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers
+これと言って嫌いだったわけではないのですが、なんとなく余白が多いものがいいなと思ってgokarnaというテーマに変更しました。
+526avijitgupta/gokarna: A minimal opinionated theme for Hugo
+意外と調整するのに手間取ったが、テーマが変わるとテンションも変わるのでこれから色々と書いていこうかなと思います。</description></item><item><title>Fluentdについて調べ始めた。</title><link>https://yatta47.github.io/posts/20210812/fluentd/</link><pubDate>Thu, 12 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/posts/20210812/fluentd/</guid><description>Fluentdについて調べる必要があったので調べています。
 参考にしているサイト KafkaブローカのWrite Ahead Log格納先はデフォルトで/tmp/kafka-logsとなる。この配下に、recovery-point-offset-checkpoint, replication-offset-checkpoint ファイルが生成される。また今回の場合はtest-0という名でディレクトリが生成され、さらにその配下にバイナリログが生成されていた。詳しい仕組みはよく分かってないが、これらのリソースがブローカの耐障害性をサポートする、はず。
 aaaaaaa</description></item><item><title>ブログはじめました</title><link>https://yatta47.github.io/posts/20210811/blog/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/posts/20210811/blog/</guid><description>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。
 すでにブログははてなブログでやっているのですがそれとのすみわけをどうしようか考え中。
 ここのサイトは技術のことも書きつつ日々思ったことを素直に書くようなところにしようかと思ったり思わなかったり。
-どちらにしてもHugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。</description></item></channel></rss>
+Hugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。</description></item></channel></rss>

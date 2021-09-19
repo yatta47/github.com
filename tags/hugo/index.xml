@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on yatta47</title><link>https://yatta47.github.io/tags/hugo/</link><description>Recent content in hugo on yatta47</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 18 Sep 2021 14:34:30 +0000</lastBuildDate><atom:link href="https://yatta47.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>テーマを変えました。</title><link>https://yatta47.github.io/posts/20210918/blog/</link><pubDate>Sat, 18 Sep 2021 14:34:30 +0000</pubDate><guid>https://yatta47.github.io/posts/20210918/blog/</guid><description>ここ2日間でずっとHugoのテーマをあさっていました。
+以前はStackというテーマを使っていました。
+CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers
+これと言って嫌いだったわけではないのですが、なんとなく余白が多いものがいいなと思ってgokarnaというテーマに変更しました。
+526avijitgupta/gokarna: A minimal opinionated theme for Hugo
+意外と調整するのに手間取ったが、テーマが変わるとテンションも変わるのでこれから色々と書いていこうかなと思います。</description></item></channel></rss>
