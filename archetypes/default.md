@@ -1,11 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories: ["",]
-tags: ["",]
+categories: [""]
+tags: [""]
 author: "yatta47"
 description: ""
 draft: false
-image: "/img/blog.png"
+type: post
 ---
 

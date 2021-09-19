@@ -1,4 +1,4 @@
-# 概要
+# yatta47.github.io
 
 hugoを使ってサイト更新をする際に必要な情報
 
@@ -13,7 +13,8 @@ hugoを使ってサイト更新をする際に必要な情報
 ### 記事を作成する
 
 ```command
-hugo new post/[dir-name]/[article-name].md
+hugo new posts/[dir-name]/[article-name].md
+hugo new posts/first_post.md
 ```
 
 | Name         | Description    |
@@ -21,7 +22,13 @@ hugo new post/[dir-name]/[article-name].md
 | dir-name     | ディレクトリ名 |
 | article-name | 記事名         |
 
-アイキャッチ画像は`static/img`の下に置く。
+アイキャッチ画像は`static/images`の下に置く。
+
+### ローカルで起動
+
+```
+hugo server -D
+```
 
 ### テーブルを整形するショートカットキー
 
