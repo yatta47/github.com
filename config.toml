@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "yatta47"
-  description = "I'm a Cloud & Network Engineer."
+  description = "Infrastructure and Cloud Engineer."
   avatarURL = "/images/avatar.png"
   avatarSize = "size-m"
   customHeadHTML = """
@@ -27,8 +27,8 @@ pygmentsStyle = "monokai"
     {name = "hatenablog", url = "https://yatta47.hateblo.jp"},
     {name = "hatenabookmark", url = "https://b.hatena.ne.jp/yatta47/"},
   ]
-  metaKeywords = ["blog", "gokarna", "hugo"]
-  showPostsOnHomePage = "popular"
+  metaKeywords = ["yatta47", "blog", "hugo"]
+  showPostsOnHomePage = "recent"
 
 [menu]
   [[menu.main]]
