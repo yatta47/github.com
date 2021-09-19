@@ -3,7 +3,13 @@ terraform init terraform を初期化する際のコマンド。コードを実�
 terraform plan コードのdry run。実行したらどうなるかの結果が見える。
 terraform apply コードを実行する。
 planの結果が表示され、その後確認が表示される。
-terraform destroy terraformで作成されたリソースを削除する。</description></item><item><title>テーマを変えました。</title><link>https://yatta47.github.io/posts/20210918/blog/</link><pubDate>Sat, 18 Sep 2021 14:34:30 +0000</pubDate><guid>https://yatta47.github.io/posts/20210918/blog/</guid><description>ここ2日間でずっとHugoのテーマをあさっていました。
+terraform destroy terraformで作成されたリソースを削除する。</description></item><item><title>2021-09-18 のブックマーク</title><link>https://yatta47.github.io/posts/20210918/bookmark/</link><pubDate>Sat, 18 Sep 2021 17:36:26 +0000</pubDate><guid>https://yatta47.github.io/posts/20210918/bookmark/</guid><description>Python PythonでgRPC+双方向通信+非同期をやってみた - Qiita
+[Python] Tweepyモジュールで、Tweeterのツイートを自動でretweetするBOTを超簡単に作成する方法 - Qiita
+ログイン／ログアウトするWebサーバをPython＆OAuth2で作ってみる - Qiita
+その他 awk 実践例集 - Qiita
+AppSyncのLambda認証を試してみる
+クッキーとセッションについて - Qiita
+Lightsailでプロキシサーバーを立てる - Qiita</description></item><item><title>テーマを変えました。</title><link>https://yatta47.github.io/posts/20210918/blog/</link><pubDate>Sat, 18 Sep 2021 14:34:30 +0000</pubDate><guid>https://yatta47.github.io/posts/20210918/blog/</guid><description>ここ2日間でずっとHugoのテーマをあさっていました。
 以前はStackというテーマを使っていました。
 CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers
 これと言って嫌いだったわけではないのですが、なんとなく余白が多いものがいいなと思ってgokarnaというテーマに変更しました。
