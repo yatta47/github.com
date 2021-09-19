@@ -14,7 +14,9 @@ keywords: ["hugo"]
 
 参考記事に書いたとおりにやることで意外とシンプルにできてよかった。
 
-前任者に感謝感謝。
+先駆者に感謝感謝。
+
+<iframe class="hatenablogcard" style="width:100%;height:155px;margin:15px 0;max-width:680px;" title="はてなブログカードのような美しい外部リンクをクリック一発で作成する方法" src="https://hatenablog-parts.com/embed?url=https://nelog.jp/hatenablogcard" frameborder="0" scrolling="no"></iframe>
 
 ## 参考記事
 
