@@ -3,10 +3,11 @@ title: "ブログはじめました"
 date: 2021-08-12T00:08:43Z
 tags: ["blog"]
 author: "yatta47"
-description: "新しくブログはじめました。"
+description: "ブログはじめました"
 draft: false
 image: "/img/blog.png"
 type: post
+keywords: ["blog"]
 ---
 
 前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。
@@ -16,4 +17,3 @@ type: post
 ここのサイトは技術のことも書きつつ日々思ったことを素直に書くようなところにしようかと思ったり思わなかったり。
 
 Hugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。
-
