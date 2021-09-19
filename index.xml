@@ -13,9 +13,10 @@ Gone camping! {?:}tent: Be back soon. That is so funny!</description></item><ite
 CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers
 これと言って嫌いだったわけではないのですが、なんとなく余白が多いものがいいなと思ってgokarnaというテーマに変更しました。
 526avijitgupta/gokarna: A minimal opinionated theme for Hugo
-意外と調整するのに手間取ったが、テーマが変わるとテンションも変わるのでこれから色々と書いていこうかなと思います。</description></item><item><title>Fluentdについて調べ始めた。</title><link>https://yatta47.github.io/posts/20210812/fluentd/</link><pubDate>Thu, 12 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/posts/20210812/fluentd/</guid><description>Fluentdについて調べる必要があったので調べています。
-参考にしているサイト KafkaブローカのWrite Ahead Log格納先はデフォルトで/tmp/kafka-logsとなる。この配下に、recovery-point-offset-checkpoint, replication-offset-checkpoint ファイルが生成される。また今回の場合はtest-0という名でディレクトリが生成され、さらにその配下にバイナリログが生成されていた。詳しい仕組みはよく分かってないが、これらのリソースがブローカの耐障害性をサポートする、はず。
-aaaaaaa</description></item><item><title>ブログはじめました</title><link>https://yatta47.github.io/posts/20210811/blog/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/posts/20210811/blog/</guid><description>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。
+意外と調整するのに手間取ったが、テーマが変わるとテンションも変わるのでこれから色々と書いていこうかなと思います。</description></item><item><title>Hugoで関連記事を表示する</title><link>https://yatta47.github.io/posts/20210812/hugo-related/</link><pubDate>Thu, 12 Aug 2021 14:22:31 +0000</pubDate><guid>https://yatta47.github.io/posts/20210812/hugo-related/</guid><description>テーマを新しくして、参考記事が出なくなったので自分で実装する必要があって調べてみた。
+参考記事に書いたとおりにやることで意外とシンプルにできてよかった。
+前任者に感謝感謝。
+参考記事 Hugoで関連記事を表示する | 初心者Jamstack</description></item><item><title>ブログはじめました</title><link>https://yatta47.github.io/posts/20210811/blog/</link><pubDate>Thu, 12 Aug 2021 00:08:43 +0000</pubDate><guid>https://yatta47.github.io/posts/20210811/blog/</guid><description>前から放置していたgithub.ioでのサイト、Hugoで気に入ったthemeがあったので、続けてみようと思い始めました。
 すでにブログははてなブログでやっているのですがそれとのすみわけをどうしようか考え中。
 ここのサイトは技術のことも書きつつ日々思ったことを素直に書くようなところにしようかと思ったり思わなかったり。
 Hugoでのブログ運用は初めてなのでどこまで苦痛なくできるか続けてみようと思います。</description></item><item><title>About</title><link>https://yatta47.github.io/page/about/</link><pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate><guid>https://yatta47.github.io/page/about/</guid><description>技術者らしく技術サイトもやっていこうかなと。
