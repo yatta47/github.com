@@ -26,7 +26,7 @@ hugo new posts/first_post.md
 
 ### ローカルで起動
 
-```
+```command
 hugo server -D
 ```
 
