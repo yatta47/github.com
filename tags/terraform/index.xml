@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>terraform on yatta47</title><link>https://yatta47.github.io/tags/terraform/</link><description>Recent content in terraform on yatta47</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 19 Sep 2021 17:03:57 +0000</lastBuildDate><atom:link href="https://yatta47.github.io/tags/terraform/index.xml" rel="self" type="application/rss+xml"/><item><title>terraformのコマンド</title><link>https://yatta47.github.io/posts/20210919/terraform-cmd/</link><pubDate>Sun, 19 Sep 2021 17:03:57 +0000</pubDate><guid>https://yatta47.github.io/posts/20210919/terraform-cmd/</guid><description>terraformの基本的なコマンド。
+terraform init terraform を初期化する際のコマンド。コードを実行しようと思った際は必ず実行する。同一ディレクトリに.terraformというディレクトリができる。
+terraform plan コードのdry run。実行したらどうなるかの結果が見える。
+terraform apply コードを実行する。
+planの結果が表示され、その後確認が表示される。
+terraform destroy terraformで作成されたリソースを削除する。</description></item></channel></rss>
